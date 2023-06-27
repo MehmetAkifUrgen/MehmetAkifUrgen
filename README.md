@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Movie Project](https://github.com/MehmetAkifUrgen/MovieProject-Clean-Architecture-MVVM-Hilt-Flow-Tmdb-Paging3)
 
-- 🌱 I’m currently learning **Unity, Android libraries**
+- 🌱 I’m currently learning **Flutter, Unity, Android libraries**
 
-- 💬 Ask me about **Android, Kotlin, React, React-Native**
+- 💬 Ask me about **Android, Kotlin, React, React-Native, Flutter**
 
 - 📫 How to reach me **urgenakif@gmail.com**
 
