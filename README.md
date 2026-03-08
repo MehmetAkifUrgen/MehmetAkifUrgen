@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Akif</h1>
 <h3 align="center">A passionate Mobile & Full-Stack Developer</h3>
 
-<p align="center"> 
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?logo=twitter&style=for-the-badge" alt="YOUR_TWITTER" /></a> 
-</p>
 
 - 🔭 I’m currently working on **Mobile Applications with Flutter,React Native, SwiftUI,Android, Next.js Web Projects, and AI Integrations**
 - 🌱 I’m currently learning **SwiftUI,Android**
@@ -39,6 +36,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetAkifUrgen&show_icons=true&theme=radical" alt="YOUR_GITHUB_USERNAME_STATS" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetAkifUrgen&theme=radical" alt="YOUR_GITHUB_USERNAME_STREAK" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetAkifUrgen&show_icons=true&theme=radical"  height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehmetAkifUrgen&theme=radical"  height="150" />
 </p>
